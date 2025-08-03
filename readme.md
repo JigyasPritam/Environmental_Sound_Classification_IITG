@@ -25,8 +25,8 @@ This project classifies environmental sounds (e.g., dog bark, siren, engine) usi
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/JigyasPritam/Environmental_Sound_Classification_IITG.git
+   cd Environmental_Sound_Classification_IITG
 2. Install Dependencies
      ```bash
     pip install -r requirements.txt
