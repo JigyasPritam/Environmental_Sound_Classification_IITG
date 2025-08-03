@@ -1,0 +1,5 @@
+# Ignore dataset folder
+UrbanSound8K/
+
+# Ignore all .wav files if they are in various places
+*.wav
