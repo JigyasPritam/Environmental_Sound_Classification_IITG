@@ -8,6 +8,7 @@ This project classifies environmental sounds (e.g., dog bark, siren, engine) usi
 - Input features: MFCC (120 × 173)
 - Implements 10-fold cross-validation
 - Written in PyTorch
+- Can test various sounds by giving the path to the audio (must be within the class range)
 
 ## 📁 Dataset
 - UrbanSound8K (not included in repo)
